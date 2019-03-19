@@ -1,0 +1,9 @@
+{
+  "name": "flow-opaque-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.95.1"
+  }
+}
